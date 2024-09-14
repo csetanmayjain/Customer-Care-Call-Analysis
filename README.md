@@ -39,3 +39,6 @@ This project demonstrates a comprehensive approach to analyzing customer care ca
 
 ## Disclaimer
 This project is a proof of concept (POC) and is not intended for production use.
+
+### License: 
+  CC BY-NC
